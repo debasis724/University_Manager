@@ -20,8 +20,8 @@ The project is organized into the following classes:
     - Contributing
     
 If you would like to contribute to the project, please follow these steps:
->Fork the repository.
->Create a new branch for your changes: git checkout -b feature/new-feature.
->Commit your changes: git commit -m "Add new feature".
->Push to the branch: git push origin feature/new-feature.
->Open a pull request.
+- Fork the repository.
+- Create a new branch for your changes: git checkout -b feature/new-feature.
+- Commit your changes: git commit -m "Add new feature".
+- Push to the branch: git push origin feature/new-feature.
+- Open a pull request.
